@@ -1,0 +1,17 @@
+{
+  "name": "cypress-test",
+  "version": "1.0.0",
+  "description": "cypress-testing",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "kokofn",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.3.0"
+  }
+}
